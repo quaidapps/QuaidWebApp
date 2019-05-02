@@ -1,3 +1,14 @@
+## What is Quaid?
+
+Quaid is a crowd sourced air quality meter and mobile web app. It is a brain child of Amir Bernat, who is an avid air quality activist. 
+
+Quaid is a hackathon project by
+
+* Michal Porag
+* Amir Bernat
+* Amir Dresler
+* Tailor VJ
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

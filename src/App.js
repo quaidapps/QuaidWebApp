@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import firebase from './utils/Firebase';
-import Maps from './map/Maps';
+// import Maps from './map/Maps';
+import Mapster from './map/Mapster';
 // import './map/Map.css';
 import Gauge from './Gauge';
 import PageHeader from './PageHeader';
@@ -92,7 +93,7 @@ class App extends Component {
             <div className="ui vertical masthead center aligned segment">
 
             <Gauge gaugeValue={this.state.gaugeValue} gaugeColor={this.state.gaugeColor} />
-            <Maps />
+            <Mapster />
 
             </div>
           </div>

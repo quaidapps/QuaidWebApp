@@ -1,0 +1,6 @@
+.mapster{
+    height: 200px;
+    width: 200px;
+    display: block;
+    z-index: 1000;
+}

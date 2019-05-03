@@ -1,13 +1,36 @@
 ## What is Quaid?
 
-Quaid is a crowd sourced air quality meter and mobile web app. It is a brain child of Amir Bernat, who is an avid air quality activist. 
+Quaid (named after the protagonist in Total Recall) is a crowd sourced air quality meter and mobile web app. It is the brain child of Amir Bernat, who is an avid air quality activist. 
 
-Quaid is a hackathon project by
+** Demo ** https://quaid-24178.firebaseapp.com/
 
-* Michal Porag
-* Amir Bernat
-* Amir Dresler
-* Tailor VJ
+Quaid was initiated as a hackathon project conducted by the Hodash dev community in Hub Stair, Hod Hasharon, Israel. May 2nd, 2019. 
+
+## Developers:
+
+* Michal Porag - Administration.
+* Amir Bernat - Idea, Electronics.
+* Amir Dresler - Electronics, Firebase.
+* Tailor VJ - React, Firebase.
+
+## Technical Achievements
+
+* Firebase-React integration.
+* Low latency.
+* Exact location in Mobile web browser. 
+* Custom-built React Google Map Component. 
+* React Semantic-UI user interface. 
+
+## TODO - Please fork and send pull requests
+
+* Firebase security. 
+* Continousely update user location.
+* Multiple user sessions. 
+* Map showing all user data simultaneousely. 
+* Notifications. 
+* Your ideas...
+
+## Technical matters
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

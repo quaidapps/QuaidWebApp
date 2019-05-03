@@ -23,8 +23,8 @@ class Mapster extends React.Component {
     if (isScriptLoaded && !this.props.isScriptLoaded) { // load finished
       if (isScriptLoadSucceed) {
         this.map = new window.google.maps.Map(this.refs.map, {
-          center: {lat: 10.794234, lng: 106.706541},
-          zoom: 16
+          center: {lat: 32.159214, lng: 34.894479},
+          zoom: 17
         });
         this.infoWindow = new window.google.maps.InfoWindow();
 
